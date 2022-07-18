@@ -1,14 +1,14 @@
 local DarkLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/CasparLmao/Ui-Libs/Main/Dark%20Hub/DarkHub.Source"))() 
 local WindowOne = DarkLib:Window() -- Makes Window
 
-local TabOne = WindowOne:Tab("Tab One") -- Makes Tab
-local TabTwo = WindowOne:Tab("Tab Twp") -- Makes Tab
-local TabThree = WindowOne:Tab("Tab Three") -- Makes Tab
-local TabFour = WindowOne:Tab("Tab Four") -- Makes Tab
-local TabFive = WindowOne:Tab("Tab Five") -- Makes Tab
-local TabSix = WindowOne:Tab("Tab Siz") -- Makes Tab
-local TabSeven = WindowOne:Tab("Tab Siz") -- Makes Tab
-local TabEight = WindowOne:Tab("Tab Siz") -- Makes Tab
+local TabOne = WindowOne:Tab("Main") -- Makes Tab
+local TabTwo = WindowOne:Tab("Config") -- Makes Tab
+local TabThree = WindowOne:Tab("AutoFarm") -- Makes Tab
+local TabFour = WindowOne:Tab("Misc") -- Makes Tab
+local TabFive = WindowOne:Tab("Trolling") -- Makes Tab
+local TabSix = WindowOne:Tab("Theme") -- Makes Tab
+local TabSeven = WindowOne:Tab("Discord") -- Makes Tab
+local TabEight = WindowOne:Tab("Credits") -- Makes Tab
 
 
 

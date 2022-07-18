@@ -2,7 +2,7 @@
 
 
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/batusz/uilibrarys/main/kavo_ui_lib"))() --Library Loadstring
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/CasparLmao/Ui-Libs/Main/Kavo/Kavo.Source"))() --Library Loadstring
 
 
 local Window = Library.CreateLib("TITLE", "DarkTheme") --Creating UI Library Window

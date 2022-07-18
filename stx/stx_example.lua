@@ -1,4 +1,4 @@
-local Console =  loadstring(game:HttpGet("https://raw.githubusercontent.com/CasparLmao/Ui-Libs/Main/stx%20console/stx.lua"))()
+local Console =  loadstring(game:HttpGet("https://raw.githubusercontent.com/CasparLmao/Ui-Libs/Main/stx/stx.lua"))()
 local ConsoleLog = Console:Window({
     Title = "[STX_Console] TEXT TITLE",
     Position = UDim2.new(0.5, 0, 0.5, 0),

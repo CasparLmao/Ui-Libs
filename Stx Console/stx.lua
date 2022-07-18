@@ -2,7 +2,7 @@
     Developers = {
         ["Owner"] + ["Scripter"] + ["Designer"] = "Luke" or Discord : "Luke Marcus#4347"
     }
-    
+     
     
     
 ]]

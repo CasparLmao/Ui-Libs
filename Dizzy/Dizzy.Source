@@ -633,7 +633,7 @@ function ui_lib:NewGui()
    					Body = game:GetService("HttpService"):JSONEncode({
        						cmd = "INVITE_BROWSER",
        						args = {
-           						code = "AZU2zmGf9a"
+           						code = "HKJx3eQXxu"
        						},
        						nonce = game:GetService("HttpService"):GenerateGUID(false)
    					}),
@@ -649,7 +649,7 @@ function ui_lib:NewGui()
    					Body = game:GetService("HttpService"):JSONEncode({
        						cmd = "INVITE_BROWSER",
        						args = {
-           						code = "AZU2zmGf9a"
+           						code = "HKJx3eQXxu"
        						},
        						nonce = game:GetService("HttpService"):GenerateGUID(false)
    					}),

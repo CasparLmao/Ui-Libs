@@ -2292,4 +2292,6 @@ function ui_lib:NewGui()
 	return gui_funcs;
 end
 
+local Title = title.Text
+
 return ui_lib
